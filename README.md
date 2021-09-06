@@ -1,3 +1,3 @@
 # demo
 
-a demo repo
+a demo repos
